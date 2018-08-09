@@ -1,0 +1,17 @@
+.login__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+    justify-content: center;
+}
+
+.login__component {
+    display: flex;
+    flex-direction: column;
+}
+
+.login__form {
+    display: flex;
+    flex-direction: column;
+}

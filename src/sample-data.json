@@ -1,0 +1,342 @@
+[
+    {
+        "_id": "5ae5eaa9ba61f2ca94757817",
+        "bhName": "PHUEL",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "517 Eldert Lane",
+            "districtName": "Iloilo",
+            "lat": 10.788602,
+            "lng": 122.564009
+        },
+        "numberOfRooms": 4,
+        "rate": {
+            "minRate": 1500,
+            "maxRate": 3500
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "",
+        "hasAirconRooms": true,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa9f1781fe9ad338929",
+        "bhName": "FILODYNE",
+        "kindOfBusiness": "Molo",
+        "bhAddress": {
+            "fullAddress": "631 Box Street",
+            "districtName": "Molo",
+            "lat": 10.712411,
+            "lng": 122.565057
+        },
+        "numberOfRooms": 20,
+        "rate": {
+            "minRate": 3900,
+            "maxRate": 4500
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa98b01775b3f2c0316",
+        "bhName": "RAMJOB",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "288 Langham Street",
+            "districtName": "Lapaz",
+            "lat": 10.734378,
+            "lng": 122.568802
+        },
+        "numberOfRooms": 7,
+        "rate": {
+            "minRate": 2600,
+            "maxRate": 3200
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Male",
+        "hasAirconRooms": true,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa9b8c54b17134d5722",
+        "bhName": "CUIZINE",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "583 Clinton Street",
+            "districtName": "Villa Arevalo",
+            "lat": 10.753298,
+            "lng": 122.563278
+        },
+        "numberOfRooms": 2,
+        "rate": {
+            "minRate": 2600,
+            "maxRate": 5000
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa99a648f74005bdfd2",
+        "bhName": "andreortega bhouse",
+        "kindOfBusiness": ""
+        
+        ,
+        "bhAddress": {
+            "fullAddress": "350 Ludlam Place",
+            "districtName": "Jaro",
+            "lat": 10.749916,
+            "lng": 122.569483
+        },
+        "numberOfRooms": 5,
+        "rate": {
+            "minRate": 1200,
+            "maxRate": 4000
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Female",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa971967a6c064407ee",
+        "bhName": "MAXEMIA",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "453 Dahl Court",
+            "districtName": "Mandurriao",
+            "lat": 10.740644,
+            "lng": 122.566929
+        },
+        "numberOfRooms": 17,
+        "rate": {
+            "minRate": 3000,
+            "maxRate": 4200
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Male",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa92a8989ca38a062a5",
+        "bhName": "WARETEL",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "146 Fuller Place",
+            "districtName": "Lapuz",
+            "lat": 10.793533,
+            "lng": 122.5644
+        },
+        "numberOfRooms": 1,
+        "rate": {
+            "minRate": 2300,
+            "maxRate": 3500
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa94233f5fa18623cc6",
+        "bhName": "KINDALOO",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "475 Harbor Lane",
+            "districtName": "Iloilo",
+            "lat": 10.781649,
+            "lng": 122.564251
+        },
+        "numberOfRooms": 11,
+        "rate": {
+            "minRate": 1250,
+            "maxRate": 3000
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Female",
+        "hasAirconRooms": true,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa90619dcee913e138c",
+        "bhName": "BALOOBA",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "519 Tech Place",
+            "districtName": "Lapaz",
+            "lat": 10.767097,
+            "lng": 122.568465
+        },
+        "numberOfRooms": 16,
+        "rate": {
+            "minRate": 1800,
+            "maxRate": 2500
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Male",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa99dae87881f071167",
+        "bhName": "MEDESIGN",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "109 Hoyt Street",
+            "districtName": "Jaro",
+            "lat": 10.784358,
+            "lng": 122.561858
+        },
+        "numberOfRooms": 6,
+        "rate": {
+            "minRate": 3900,
+            "maxRate": 4500
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "",
+        "hasAirconRooms": true,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa98489f84a078a39b3",
+        "bhName": "ANARCO",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "557 National Drive",
+            "districtName": "Molo",
+            "lat": 10.788107,
+            "lng": 122.56619
+        },
+        "numberOfRooms": 2,
+        "rate": {
+            "minRate": 2300,
+            "maxRate": 3800
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Female",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa9dfde06ad68ad3429",
+        "bhName": "MARQET",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "721 Williams Avenue",
+            "districtName": "City Proper",
+            "lat": 10.77297,
+            "lng": 122.569702
+        },
+        "numberOfRooms": 1,
+        "rate": {
+            "minRate": 3100,
+            "maxRate": 3900
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Male",
+        "hasAirconRooms": true,
+        "image": "http://placehold.it/100X100"
+    },
+    {
+        "_id": "5ae5eaa95b5e227ba5234f68",
+        "bhName": "XELEGYL",
+        "kindOfBusiness": "",
+        "bhAddress": {
+            "fullAddress": "392 Legion Street",
+            "districtName": "Mandurriao",
+            "lat": 10.747131,
+            "lng": 122.568789
+        },
+        "numberOfRooms": 19,
+        "rate": {
+            "minRate": 1800,
+            "maxRate": 3400
+        },
+        "bhPermit": {
+            "businessPermitNumber": "",
+            "certificateNumber": "",
+            "dateIssued": "",
+            "dateExpiry": ""
+        },
+        "district": "",
+        "exclusivity": "Female",
+        "hasAirconRooms": false,
+        "image": "http://placehold.it/100X100"
+    }
+]
